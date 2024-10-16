@@ -1,0 +1,1 @@
+ALTER TABLE "collectors" RENAME TO "owners";
